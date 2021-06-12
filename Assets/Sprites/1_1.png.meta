@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 4dfe5d4edae16c24081531f3e2988274
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Grass
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1621
+        width: 884
+        height: 245
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: gora1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 752
+        width: 655
+        height: 869
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: gora2
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 762
+        width: 699
+        height: 849
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Kust
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1621
+        width: 1064
+        height: 275
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: kust1
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 772
+        width: 500
+        height: 809
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: kust2
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 23
+        width: 500
+        height: 694
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tree1
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 797
+        width: 934
+        height: 1097
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: kussst
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 148
+        width: 779
+        height: 484
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tree2
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 1127
+        width: 580
+        height: 759
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tree3
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 173
+        width: 615
+        height: 924
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

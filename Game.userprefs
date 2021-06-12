@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\mainchar.cs">
+    <Files>
+      <File FileName="Assets\Script\platf.cs" Line="23" Column="26" />
+      <File FileName="Assets\Script\platfY.cs" Line="7" Column="20" />
+      <File FileName="Assets\Script\platf2.cs" Line="27" Column="51" />
+      <File FileName="Assets\Script\mainchar.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
